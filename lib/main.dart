@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
           )),
           fontFamily: 'SF-Pro-Rounded',
         ),
-        home: const SettingsScreen(),
+        home: const App(),
       ),
     );
   }
