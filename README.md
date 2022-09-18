@@ -2,7 +2,7 @@
 
 E-Wallet App
 
-#### Desing Credit : By  [Hisham Zayadnh](https://www.figma.com/community/file/1090938020479002157)  
+#### Desing Credit : By Anh Báo
 
 -------------  
 
